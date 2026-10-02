@@ -1,17 +1,15 @@
 ## Hi there 👋
 #### About me
-Data Science enthusiast focused on building a strong foundation in statistics and data analysis. I enjoy working with real-world data, exploring patterns, and deriving meaningful insights through analytical thinking.
-My current focus is on understanding data at a deeper level—statistics, probability, and data behavior—rather than just building predictive models. I believe strong fundamentals lead to more reliable and interpretable solutions.
-I work with Python, SQL, and data visualization tools such as Power BI, Tableau, and Excel to analyze data and communicate insights effectively. I also explore machine learning, NLP, and neural networks with an emphasis on practical application and interpretability.
-Always learning, experimenting, and building projects that turn data into actionable insights.
+I’m an MCA student with a background in Data Science through certification and internship experience. I’m passionate about Artificial Intelligence and emerging technologies, with a growing interest in Machine Learning and Deep Learning. Through my MCA, I aim to strengthen my computer science fundamentals, explore new technologies, and deepen my understanding of AI. I enjoy continuous learning, experimenting with new concepts, and applying my knowledge to real-world problems.
 
 ![github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=bishnusahu23&show_icons=true&theme=merko)
 
 
-- 🔭 I’m currently working on data science and data analytics projects
-- 🤔 I’m looking for help with finding a job as a Data Analyst or junior data scientist where I can contribute my skills and grow professionally.
+- 🔭 I’m currently pursuing my MCA and working on projects across programming, Data Science, and AI.
+- 🌱 I’m currently exploring Artificial Intelligence, Machine Learning, and Deep Learning while strengthening my computer science fundamentals.
+- 💡 I enjoy learning how technologies work and turning what I learn into practical projects.
 - 📫 How to reach me: https://www.linkedin.com/in/bishnu-sahu-626093294/
-- 😄 Pronouns: Her
-- ⚡ Fun fact: I never planned to work in software after graduation, but now I love coding, building models, and finding insights from data!
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I never planned to work in software after graduation, but discovering coding changed my perspective—and now I enjoy building things and exploring new technologies!
 
 
