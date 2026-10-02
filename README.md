@@ -5,11 +5,10 @@ I’m an MCA student with a background in Data Science through certification and
 ![github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=bishnusahu23&show_icons=true&theme=merko)
 
 
-- 🔭 I’m currently pursuing my MCA and working on projects across programming, Data Science, and AI.
 - 🌱 I’m currently exploring Artificial Intelligence, Machine Learning, and Deep Learning while strengthening my computer science fundamentals.
 - 💡 I enjoy learning how technologies work and turning what I learn into practical projects.
 - 📫 How to reach me: https://www.linkedin.com/in/bishnu-sahu-626093294/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never planned to work in software after graduation, but discovering coding changed my perspective—and now I enjoy building things and exploring new technologies!
+
 
 
